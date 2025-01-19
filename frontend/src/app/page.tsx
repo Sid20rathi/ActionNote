@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      Landing page of ActionNote.
+      Landing page.
     </div>
    
   );
